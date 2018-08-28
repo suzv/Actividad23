@@ -20,6 +20,7 @@ Rails.application.config.assets.paths << Rails.root.join('vendor','assets','img'
 Rails.application.config.assets.paths << Rails.root.join('vendor','assets','img','team')
 Rails.application.config.assets.paths << Rails.root.join('vendor','assets','img','testimonials')
 Rails.application.config.assets.paths << Rails.root.join('vendor','assets','img')
+Rails.application.config.assets.paths << Rails.root.join('vendor','assets','bootstrap','fonts')
 
 
 
